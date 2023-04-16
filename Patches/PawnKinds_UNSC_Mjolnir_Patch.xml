@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_EliteMjolnirBase"]</xpath>
+		<!--/xenotypeSet/xenotypeChances-->
+		<value>
+			<xenotypeSet>
+				<xenotypeChances>
+					<spartanii>999</spartanii>
+				</xenotypeChances>
+			</xenotypeSet>
+		</value>
+	</Operation>
+
+	<!-- technically this one isn't required, but would rather have it incase xenos are added to this faction by other mods etc -->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_EliteMjolnirBase"]</xpath>
+		<value>
+			<useFactionXenotypes>false</useFactionXenotypes>
+		</value>
+	</Operation>
+</Patch>
