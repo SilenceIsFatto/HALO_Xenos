@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_ODSTBase"]</xpath>
+		<!--/xenotypeSet/xenotypeChances-->
+		<value>
+			<xenotypeSet>
+				<xenotypeChances>
+					<haloxenos_odst>999</haloxenos_odst>
+				</xenotypeChances>
+			</xenotypeSet>
+		</value>
+	</Operation>
+    <!-- Elite ODST -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_EliteODSTBase"]</xpath>
+		<!--/xenotypeSet/xenotypeChances-->
+		<value>
+			<xenotypeSet>
+				<xenotypeChances>
+					<haloxenos_odst>999</haloxenos_odst>
+				</xenotypeChances>
+			</xenotypeSet>
+		</value>
+	</Operation>
+
+	<!-- technically this one isn't required, but would rather have it incase xenos are added to this faction by other mods etc -->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_ODSTBase"]</xpath>
+		<value>
+			<useFactionXenotypes>false</useFactionXenotypes>
+		</value>
+	</Operation>
+    <!-- Elite ODST -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/PawnKindDef[@Name="HALO_UNSC_EliteODSTBase"]</xpath>
+		<value>
+			<useFactionXenotypes>false</useFactionXenotypes>
+		</value>
+	</Operation>
+</Patch>

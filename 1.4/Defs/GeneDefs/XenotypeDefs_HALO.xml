@@ -2,7 +2,7 @@
 <Defs>
 
 	<XenotypeDef>
-		<defName>spartanii</defName>
+		<defName>haloxenos_spartanii</defName>
 		<label>Spartan II</label>
 		<description>Spartan IIs' are highly augmented, highly trained, and have superhuman healing abilities. They are horrible at household tasks. Combined with their Mjolnir armor, they are a formidable fighting force.\n\nOriginally made by ONIs' Dr Halsey, Spartan IIs' were just children when they were kidnapped and indoctrinated as part of the Spartan II program. Contrary to the ORION program, Spartan IIs' are not just drugged up soldiers but instead they are genetically and cybernetically enhanced.</description>
 		<descriptionShort>Spartan IIs' are highly augmented, highly trained, and have superhuman healing abilities. They are horrible at household tasks. Combined with their Mjolnir armor, they are a formidable fighting force.</descriptionShort>
@@ -47,9 +47,9 @@
 	</XenotypeDef>
 
 	<XenotypeDef>
-		<defName>odst</defName>
+		<defName>haloxenos_odst</defName>
 		<label>ODST</label>
-		<description>ODST, short for Orbital Drop Shock Troopers, are heavily trained and very disciplined. They aren't very good at household tasks, but throw them a MA5C and they might just *shock* you...\n\nEarly versions of ODST were introduced to the UNSC around 2129, but didn't gain notoriety until 2525, when the Human-Covenent war broke out. Unlike spartans, ODSTs' were once normal soldiers.</description>
+		<description>ODST, short for Orbital Drop Shock Troopers, are heavily trained and very disciplined. They aren't very good at household tasks, but throw them a MA5C and they might just *shock* you...\n\nEarly versions of ODST were introduced to the UNSC around 2129, but didn't gain notoriety until 2525 when the Human-Covenent war broke out. Unlike Spartan IIs', ODSTs' were once normal soldiers.</description>
 		<descriptionShort>ODST, short for Orbital Drop Shock Troopers, are heavily trained and very disciplined. They aren't very good at household tasks, but throw them a MA5C and they might just *shock* you...</descriptionShort>
 		<iconPath>UI/Icons/Xenotypes/ODST</iconPath>
 		<inheritable>false</inheritable>
