@@ -77,6 +77,7 @@
 			<li>AptitudePoor_Cooking</li>
 			<li>AptitudePoor_Plants</li>
 			<li>AptitudeStrong_Melee</li>
+			<li>AptitudeStrong_Shooting</li>
 			<li>AptitudeStrong_Intellectual</li>
 		</genes>
 	</XenotypeDef>
