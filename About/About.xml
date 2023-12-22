@@ -8,9 +8,7 @@
 	<modDependencies>
 		<li>
 			<packageId>harkon.halo.unscfaction</packageId>
-			<displayName>
-				HALO - UNSC Faction
-			</displayName>
+			<displayName>HALO - UNSC Faction</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2851992615</steamWorkshopUrl>
 			<downloadUrl>https://github.com/HarkonG/Halo-UNSC-Faction</downloadUrl>
 		</li>
@@ -21,8 +19,17 @@
 	</modDependencies>
 	<packageId>Silence.HALOXenos</packageId>
 	<description>
-		Adds in some xenotypes from the HALO Universe.
-		Currently adds Spartan and ODST xenotypes. They may be a *little* bit overpowered.
+Adds in some xenotypes from the HALO Universe.
+
+Currently adds Spartan and ODST xenotypes. They may be a *little* bit overpowered.
+
+"But ODST's are just normal people with good training!"
+
+Who knows if they're just normal people? How do they withstand the forces of being dropped from space?
+
+It doesn't technically make perfect sense, but gives a good incentive gameplay-wise.
+
+Of course things won't be perfectly akin to the actual source material, I tried my best and spent many hours of reading wiki pages for research... Ouch
 	</description>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
